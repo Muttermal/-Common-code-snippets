@@ -1,3 +1,2 @@
 # Common-code-snippets
- 一些常用的代码片段。
-
+ 记录一些代码片段、常用apps以及dot files。
